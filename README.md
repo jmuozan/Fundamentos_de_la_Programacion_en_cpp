@@ -2,7 +2,9 @@
 
 Notes and scripts of the book "Fundamentos de la programación en C++" by Ricardo Walter & Marcelo Villalobos published by Editorial Macro & Macrombo
 
-![Cover](./img/Cover_Book.png)
+<div align="center">
+  <img src="./img/Cover_Book.png" alt="Cover" width="300" height="auto">
+</div>
 
 ```
 @book{villalobos2017,
