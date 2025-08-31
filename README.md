@@ -1,6 +1,6 @@
 # Fundamentos de la Programación en C++
 
-Notes and scripts of the book "Fundamentos de la programación en C++" by Ricardo Walter & Marcelo Villalobos published by Editorial Macro & Macrombo
+Notes and scripts of the book "Fundamentos de la programación en C++" by Ricardo Walter Marcelo Villalobos published by Editorial Macro & Macrombo
 
 <div align="center">
   <img src="./img/Cover_Book.png" alt="Cover" width="300" height="auto">
@@ -35,6 +35,7 @@ Manejo de strings y procesamiento de texto.
 ### [Capítulo 9: SubAlgoritmos (procedimientos y funciones)](./Capítulos/Capítulo_9_SubAlgoritmos-(procedimientos-y-funciones))
 
 
+## Cita BibTex del libro
 
 ```
 @book{villalobos2017,
