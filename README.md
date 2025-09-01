@@ -9,7 +9,16 @@ Notes and scripts of the book "Fundamentos de la programación en C++" by Ricard
 ## Índice de Capítulos
 
 ### [Capítulo 1: Fundamentos de Programación](./Capítulos/Capítulo_1_Fundamentos-de-programación)
-Introducción a los conceptos básicos de la programación y C++.
+
+- [Representación de datos](./Capítulos/Capítulo_1_Fundamentos-de-programación/1-Representación_de_datos.md)
+
+- [Lenguajes de programación](./Capítulos/Capítulo_1_Fundamentos-de-programación/2-Lenguajes_de_programación.md)
+
+- [Algoritmos](./Capítulos/Capítulo_1_Fundamentos-de-programación/3-Algoritmos.md)
+
+- [Diagramas de flujo](./Capítulos/Capítulo_1_Fundamentos-de-programación/4-Diagramas_de_flujo.md)
+
+- []()
 
 ### [Capítulo 2: Estructura Secuencial](./Capítulos/Capítulo_2_Estructura-secuencial)
 Programas que ejecutan instrucciones una tras otra en orden lineal.
