@@ -18,7 +18,11 @@ Notes and scripts of the book "Fundamentos de la programación en C++" by Ricard
 
 - [Diagramas de flujo](./Capítulos/Capítulo_1_Fundamentos-de-programación/4-Diagramas_de_flujo.md)
 
-- []()
+- [Sintaxis](./Capítulos/Capítulo_1_Fundamentos-de-programación/5-Sintaxis.md)
+
+- [Operadores y expresiones](./Capítulos/Capítulo_1_Fundamentos-de-programación/6-Operadores-y-expresiones.md)
+
+----
 
 ### [Capítulo 2: Estructura Secuencial](./Capítulos/Capítulo_2_Estructura-secuencial)
 Programas que ejecutan instrucciones una tras otra en orden lineal.
