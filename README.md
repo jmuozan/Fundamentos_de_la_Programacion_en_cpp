@@ -22,7 +22,7 @@ Notes and scripts of the book "Fundamentos de la programación en C++" by Ricard
 
 - [Operadores y expresiones](./Capítulos/Capítulo_1_Fundamentos-de-programación/6-Operadores-y-expresiones.md)
 
-----
+------
 
 ### [Capítulo 2: Estructura Secuencial](./Capítulos/Capítulo_2_Estructura-secuencial)
 Programas que ejecutan instrucciones una tras otra en orden lineal.
