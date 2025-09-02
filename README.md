@@ -25,7 +25,28 @@ Notes and scripts of the book "Fundamentos de la programación en C++" by Ricard
 ------
 
 ### [Capítulo 2: Estructura Secuencial](./Capítulos/Capítulo_2_Estructura-secuencial)
-Programas que ejecutan instrucciones una tras otra en orden lineal.
+
+- [PROBLEMA 1: SUMA DE DOS NÚMEROS](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_1.cpp)
+
+- [PROBLEMA 2: COCIENTE Y RESIDUO](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_2.cpp)
+
+- [PROBLEMA 3: IGV Y PRECIO DE VENTA](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_3.cpp)
+
+- [PROBLEMA 4: POTENCIACIÓN](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_4.cpp)
+
+- [PROBLEMA 5: RADICACIÓN](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_5.cpp)
+
+- [PROBLEMA 6: NÚMERO EN ORDEN INVERSO](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_6.cpp)
+
+- [PROBLEMA 7: SUMA DE LOS N PRIMEROS NÚMEROS ENTEROS POSITIVOS](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_7.cpp)
+
+- [PROBLEMA 8: CALCULAR EL INTERÉS COMPUESTO](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_8.cpp)
+
+- [PROBLEMA 9: ÁREA DEL CÍRCULO](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_9.cpp)
+
+- [PROBLEMA 10: CONVERSIÓN DE SEGUNDOS EN HORAS, MINUTOS Y SEGUNDOS](./Capítulos/Capítulo_2_Estructura-secuencial/Scripts/Problema_10.cpp)
+
+- [Problemas propuestos reuseltos](./Capítulos/Capítulo_2_Estructura-secuencial/Notes/Cap_2_Problemas_propuestos.md)
 
 ### [Capítulo 3: Estructura Selectiva Simple y Doble](./Capítulos/Capítulo_3_Estrucutra-selectiva-simple-y-doble)
 Estructuras de control condicionales: if, if-else y toma de decisiones.
